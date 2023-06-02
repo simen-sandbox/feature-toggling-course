@@ -1,5 +1,5 @@
 function isEnabled(feature: string) {
-  const toggles = process.env["TOGGLES"];
+  const toggles = Deno.env.get("TOGGLES");
 
   if (toggles) {
     const features = toggles.toLowerCase().split(",");
