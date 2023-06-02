@@ -1,3 +1,6 @@
+![image](https://github.com/simen-sandbox/feature-toggling-course/assets/3726815/0256ee4a-0d33-4efd-a186-a856174eb548)
+
+
 # Feature Toggle
 
 This repository holds a few examples of how to implement feature toggles.
