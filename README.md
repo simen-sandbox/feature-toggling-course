@@ -1,6 +1,6 @@
 # Feature Toggle
 
-This repository holds a few examples of how to implement feature toggles in Deno.
+This repository holds a few examples of how to implement feature toggles.
 
 ## The concept
 
